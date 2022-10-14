@@ -1,0 +1,20 @@
+body {
+    color: black;
+    background-color: darksalmon;
+
+}
+
+p {
+    color: aliceblue;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    color: aliceblue;
+}
